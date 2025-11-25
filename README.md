@@ -1,35 +1,30 @@
-👋 Hi, I'm Mihika
+👋 Hey, I'm Mihika
 
-I'm a beginner engineering student passionate about building, experimenting, and learning modern technologies. I’m currently exploring Web Development, diving deeper into AI/ML, and understanding the world of Cloud Computing. As I grow, I’m also looking forward to contributing to open-source and collaborating with developers across the world.
+Beginner engineering student exploring modern Web Development, AI/ML, and Cloud Computing.
+I love learning by building real projects, understanding how systems work behind the scenes, and contributing to the developer community.
+Open-source, collaboration, and continuous learning are the core of my journey.
 
-🌱 What I'm Currently Learning
+🌱 Currently Exploring
+Building full-stack applications
+Core concepts of machine learning
+Cloud fundamentals and deployment workflows
+How to get started with open-source contributions
 
-Fundamentals of frontend and backend development
-
-Core concepts in machine learning
-
-Basics of cloud platforms and deployments
-
-How to contribute effectively to open-source projects
-
-🎯 What I'm Working Toward
-
-Becoming confident in full-stack development
-
-Building small to mid-scale projects with clean structure
-
-Understanding AI workflows and practical ML applications
-
-Participating in hackathons, open-source programs, and collaborative dev work
+🎯 Goals
+Strengthen my foundation in web dev & backend design
+Start contributing to beginner-friendly open-source repos
+Build clean, well-structured projects and improve code quality
+Grow as a developer by learning from the community
 
 🧠 Interests
+Web Applications
+Machine Learning
+Cloud Platforms & DevOps Basics
+Open-source Communities
 
-Web Application Development
 
-Machine Learning & Data Science
 
-Cloud Infrastructure & DevOps Basics
+📊 GitHub Insights
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rmihika&show_icons=true&theme=tokyonight" height="160px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmihika&layout=compact&theme=tokyonight" height="160px" /> </div>
+🤝 Connect With Me
 
-Scalable and real-world software systems
-
-Open-source collaboration and community
