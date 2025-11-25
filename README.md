@@ -1,30 +1,38 @@
-👋 Hey, I'm Mihika
 
-Beginner engineering student exploring modern Web Development, AI/ML, and Cloud Computing.
-I love learning by building real projects, understanding how systems work behind the scenes, and contributing to the developer community.
-Open-source, collaboration, and continuous learning are the core of my journey.
+👋 Hey, I'm Mihii
 
-🌱 Currently Exploring
-Building full-stack applications
-Core concepts of machine learning
-Cloud fundamentals and deployment workflows
-How to get started with open-source contributions
+Beginner engineering student exploring Web Development, AI/ML, and Cloud Computing. I love building things, understanding how systems work, and contributing to the developer community.
+
+🌱 Currently Learning
+
+🌐 Web development fundamentals
+
+🤖 Machine learning basics
+
+☁️ Cloud concepts & deployments
+
+🛠️ How to start contributing to open-source
 
 🎯 Goals
-Strengthen my foundation in web dev & backend design
-Start contributing to beginner-friendly open-source repos
-Build clean, well-structured projects and improve code quality
-Grow as a developer by learning from the community
+
+🚀 Build solid full-stack projects
+
+📈 Improve coding structure & best practices
+
+🤝 Contribute to beginner-friendly open-source repos
+
+🧩 Understand real-world software architecture
+
+📚 Grow through consistent learning and collaboration
 
 🧠 Interests
-Web Applications
-Machine Learning
-Cloud Platforms & DevOps Basics
-Open-source Communities
 
+💻 Web applications
 
+🧬 Machine learning
 
-📊 GitHub Insights
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rmihika&show_icons=true&theme=tokyonight" height="160px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmihika&layout=compact&theme=tokyonight" height="160px" /> </div>
-🤝 Connect With Me
+☁️ Cloud & DevOps basics
 
+🌍 Open-source ecosystems
+
+🏗️ Scalable software systems
