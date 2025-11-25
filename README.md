@@ -25,7 +25,7 @@ Beginner engineering student exploring **Web Development**, **AI/ML**, and **Clo
 
 ## 🤝 Connect With Me
 - ✉️ Email: rautmihika74@gmail.com
-- 🔗 LinkedIn: Mihika Raut
+- 🔗 LinkedIn: mihika-raut
 
 ---
 
