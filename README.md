@@ -35,7 +35,7 @@ Beginner engineering student exploring **Web Development**, **AI/ML**, and **Clo
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
