@@ -21,7 +21,7 @@ Beginner engineering student exploring **Web Development**, **AI/ML**, and **Clo
 - 🧬 Machine learning
 - ☁️ Cloud & DevOps basics
 - 🌍 Open-source ecosystems
-- 🏗️ Scalable software systems
+
 
 ## 🤝 Connect With Me
 - ✉️ Email: rautmihika74@gmail.com
