@@ -8,6 +8,7 @@ Beginner engineering student exploring **Web Development**, **AI/ML**, and **Clo
 - 🤖 Machine learning basics
 - ☁️ Cloud concepts & deployments
 - 🛠️ How to start contributing to open-source
+- 🚀 Basic Data Structures & Algorithms
 
 ## 🎯 Goals
 - 🚀 Build solid full-stack projects
