@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm **Mihika Raut**
-### Beginner Engineering Student | Web Dev Enthusiast | Exploring AI/ML & Cloud ☁️
+### Engineering Student | Web Dev Enthusiast | Exploring AI/ML & Cloud ☁️
 
 ---
 
