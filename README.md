@@ -49,8 +49,7 @@ Here are the technologies I actively use and learn:
 I'm always open to connecting, collaborating on beginner-friendly projects, and discussing new ideas!
 
 * **📧 Email:** `rautmihika74@gmail.com`
-* **🔗 LinkedIn:** [[mihika-raut](https://www.linkedin.com/in/mihika-raut/)](https://www.linkedin.com/in/mihika-raut-b9a211315/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8x5vWuliQ1ydutF3iF%2FDNQ%3D%3D) 
-
+* **🔗 LinkedIn:** (https://www.linkedin.com/in/mihika-raut/)
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mihika's GitHub Stats" />
 </p>
