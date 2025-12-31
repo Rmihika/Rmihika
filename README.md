@@ -50,6 +50,4 @@ I'm always open to connecting, collaborating on beginner-friendly projects, and 
 
 * **📧 Email:** `rautmihika74@gmail.com`
 * **🔗 LinkedIn:** (https://www.linkedin.com/in/mihika-raut/)
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mihika's GitHub Stats" />
-</p>
+
