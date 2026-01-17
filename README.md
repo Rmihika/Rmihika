@@ -86,6 +86,7 @@ I’m open to collaboration, learning opportunities, and meaningful discussions 
 
 - **📧 Email:** rautmihika74@gmail.com  
 - **🔗 LinkedIn:** https://www.linkedin.com/in/mihika-raut/
+- **🔗 Portfolio:** https://mihikarauts.netlify.app/
 
 ---
 
