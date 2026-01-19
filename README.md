@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Mihika Raut**
 
-### Engineering Student | Software & Systems Builder | Exploring AI, Embedded & Cloud
+### Engineering Student | Software & Systems Builder | Exploring AI, &  Embedded
 
 ---
 
