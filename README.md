@@ -1,93 +1,176 @@
-# 👋 Hi, I’m **Mihika Raut**
+# 👋 Hi, I'm **Mihika**
 
-### Engineering Student | Software & Systems Builder | Exploring AI, &  Embedded
-
----
-
-I am an engineering student with a background in **computer engineering** and a growing interest in **building real-world systems** that combine **software, intelligence, and hardware**.
-
-I believe in learning by **building complete systems**—from writing code and designing workflows to understanding how software interacts with real environments.
-
-Currently, I am transitioning from **pure web development** toward **applied AI, embedded systems, and intelligent automation**, with the long-term goal of working on **autonomous and smart systems**.
+### Engineering Student | Full-Stack Developer | Exploring Physical AI & Intelligent Systems
 
 ---
 
-## 🔍 Current Learning Focus
+I am an engineering student passionate about software development, problem solving, and building technology that creates real-world impact.
 
-My learning path is structured to move from software fundamentals to **intelligent, real-world systems**:
+My current focus is on strengthening my foundations in **Data Structures & Algorithms**, **Full-Stack Development**, and **Software Engineering** while gradually exploring **Artificial Intelligence**, **Computer Vision**, and **Embedded Systems**.
 
-- **🧩 Software Foundations**
-  - Strong fundamentals in Python and JavaScript
-  - Writing clean, modular, and maintainable code
-  - Version control and collaborative workflows using Git & GitHub
+I enjoy learning by building projects, understanding how systems work end-to-end, and documenting my journey as I grow from a student developer into a software engineer.
 
-- **🌐 Full-Stack Development**
-  - Building scalable applications using the **MERN stack**
-  - Understanding backend APIs, databases, and system architecture
-  - Learning system design basics for real-world applications
+---
 
-- **🧠 AI / ML (Applied Focus)**
-  - Python for data processing and analysis
-  - Computer vision fundamentals
-  - Transitioning from rule-based logic to ML-based decision systems
+## 🚀 Current Roadmap
 
-- **⚙️ Embedded & Systems Exploration**
-  - Exploring how software controls hardware
-  - Learning the basics of embedded systems and real-time control
-  - Working toward robotics and autonomous system projects
+### Phase 1 — Software Engineering Foundations
 
-- **☁️ Cloud & DevOps Basics**
-  - Understanding deployment workflows
-  - Introductory CI/CD concepts
-  - Learning how applications scale in production environments
+* Data Structures & Algorithms (C++)
+* Problem Solving
+* Object-Oriented Programming
+* Git & GitHub
+
+### Phase 2 — Full-Stack Development
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+
+### Phase 3 — Advanced Engineering
+
+* System Design
+* Cloud Fundamentals
+* DevOps Basics
+
+### Phase 4 — Future Exploration
+
+* Artificial Intelligence
+* Computer Vision
+* Embedded Systems
+* Robotics & Autonomous Systems
 
 ---
 
 ## 🎯 Current Goals
 
-| Area | Objective | Status |
-|-----|----------|-------|
-| **Projects** | Build engineering-focused projects combining software, logic, and real-world interaction | In Progress |
-| **Python** | Achieve strong proficiency for AI, vision, and system control | In Progress |
-| **AI/ML** | Develop a solid foundation in applied machine learning | In Progress |
-| **Systems Thinking** | Learn how complete systems are designed, integrated, and evaluated | Ongoing |
-| **Open Source** | Contribute meaningfully to beginner-friendly repositories | Ongoing |
+| Goal                          | Status         |
+| ----------------------------- | -------------- |
+| Master DSA Fundamentals       | 🔄 In Progress |
+| Build 10+ Full-Stack Projects | 🔄 In Progress |
+| Strengthen MERN Stack Skills  | 🔄 In Progress |
+| Learn System Design Basics    | 🔄 In Progress |
+| Explore AI & Computer Vision  | 📚 Learning    |
+| Contribute to Open Source     | 🎯 Upcoming    |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming & Software
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+### Programming Languages
 
-### 🌐 Web & Databases
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
+</p>
 
-### ☁️ Tools & Workflow
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### Frontend Development
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-## 📌 What I’m Working Toward
+### Backend Development
 
-- Intelligent systems that **sense, decide, and act**
-- Projects that integrate **software + AI + hardware**
-- A strong foundation in:
-  - Robotics
-  - Embedded Systems
-  - Applied Artificial Intelligence
-  - Autonomous Systems
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
----
+### Tools & Platforms
 
-## 🤝 Let’s Connect
-
-I’m open to collaboration, learning opportunities, and meaningful discussions around engineering, AI, and systems design.
-
-- **📧 Email:** rautmihika74@gmail.com  
-- **🔗 LinkedIn:** https://www.linkedin.com/in/mihika-raut/
-- **🔗 Portfolio:** https://mihikarauts.netlify.app/
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
+## 🏗️ Featured Projects
 
+### 📌 Attendance Management System
+
+A MERN-stack application for managing and tracking student attendance.
+
+### 📌 Full-Stack Web Applications
+
+Building end-to-end web applications with authentication, APIs, and database integration.
+
+### 📌 DSA Journey
+
+A public repository documenting my Data Structures & Algorithms learning journey and problem-solving progress.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+✅ C Programming
+✅ C++ Basics
+✅ Java Basics
+✅ Git & GitHub
+
+🔄 Arrays
+🔄 Data Structures
+🔄 JavaScript
+🔄 React.js
+🔄 Backend Development
+
+📚 System Design
+📚 Artificial Intelligence
+📚 Embedded Systems
+```
+
+---
+
+## 🌱 Philosophy
+
+> Learn fundamentals.
+>
+> Build projects.
+>
+> Stay consistent.
+>
+> Improve every day.
+
+---
+
+## 🎖️ 2026 Vision
+
+* Become a strong software engineer
+* Build impactful engineering projects
+* Gain practical experience through internships
+* Explore AI, Computer Vision, and Intelligent Systems
+* Contribute to meaningful open-source projects
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: mihikaraut29@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/mihika-raut
+
+🌐 Portfolio: [https://mihikarauts.netlify.app/]
+
+---
+
+<p align="center">
+
+### "The best way to learn engineering is to build."
+
+⭐ Thanks for visiting my profile!
+
+</p>
