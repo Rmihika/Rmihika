@@ -85,34 +85,14 @@ I enjoy learning by building projects, understanding how systems work end-to-end
 
 ---
 
-## 🏗️ Featured Projects
+### 🏆 Featured Project
 
-### 📌 Attendance Management System
-
-A MERN-stack application for managing and tracking student attendance.
-
-### 📌 Full-Stack Web Applications
-
-Building end-to-end web applications with authentication, APIs, and database integration.
-
-### 📌 DSA Journey
-
-A public repository documenting my Data Structures & Algorithms learning journey and problem-solving progress.
+**[Smart Attendance System]**
+* 🥉 **2nd Runner-Up at VTechnovation Techfest**
+* A cross-platform capstone project engineered to automate attendance tracking using computer vision and facial recognition. Built with a robust full-stack architecture to ensure real-time accuracy and seamless edge deployment.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
 
 ## 📚 Currently Learning
 
