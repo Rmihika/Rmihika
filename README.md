@@ -1,156 +1,48 @@
-# 👋 Hi, I'm **Mihika**
+<h1 align="center">Hi, I'm Mihika Raut 👋</h1>
 
-### Engineering Student | Full-Stack Developer | Exploring Physical AI & Intelligent Systems
-
----
-
-I am an engineering student passionate about software development, problem solving, and building technology that creates real-world impact.
-
-My current focus is on strengthening my foundations in **Data Structures & Algorithms**, **Full-Stack Development**, and **Software Engineering** while gradually exploring **Artificial Intelligence**, **Computer Vision**, and **Embedded Systems**.
-
-I enjoy learning by building projects, understanding how systems work end-to-end, and documenting my journey as I grow from a student developer into a software engineer.
-
----
-
-## 🚀 Current Roadmap
-
-### Phase 1 — Software Engineering Foundations
-
-* Data Structures & Algorithms (C++)
-* Problem Solving
-* Object-Oriented Programming
-* Git & GitHub
-
-### Phase 2 — Full-Stack Development
-
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-
-### Phase 3 — Advanced Engineering
-
-* System Design
-* Cloud Fundamentals
-* DevOps Basics
-
-### Phase 4 — Future Exploration
-
-* Artificial Intelligence
-* Computer Vision
-* Embedded Systems
-* Robotics & Autonomous Systems
-
----
-
-## 🎯 Current Goals
-
-| Goal                          | Status         |
-| ----------------------------- | -------------- |
-| Master DSA Fundamentals       | 🔄 In Progress |
-| Build 10+ Full-Stack Projects | 🔄 In Progress |
-| Strengthen MERN Stack Skills  | 🔄 In Progress |
-| Learn System Design Basics    | 🔄 In Progress |
-| Explore AI & Computer Vision  | 📚 Learning    |
-| Contribute to Open Source     | 🎯 Upcoming    |
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+  B.Tech ECE Student · Full Stack Developer · Building cool things with the web
 </p>
 
 ---
 
-### 🏆 Featured Project
+### 🧑‍💻 About Me
 
-**[Smart Attendance System]**
-* 🥉 **2nd Runner-Up at VTechnovation Techfest**
-* A cross-platform capstone project engineered to automate attendance tracking using computer vision and facial recognition. Built with a robust full-stack architecture to ensure real-time accuracy and seamless edge deployment.
-
----
-
-
-## 📚 Currently Learning
-
-```text
-✅ C Programming
-✅ C++ Basics
-✅ Java Basics
-✅ Git & GitHub
-
-🔄 Arrays
-🔄 Data Structures
-🔄 JavaScript
-🔄 React.js
-🔄 Backend Development
-
-📚 System Design
-📚 Artificial Intelligence
-📚 Embedded Systems
-```
+- 🎓 2nd Year B.Tech ECE student
+- 💻 Full Stack Developer focused on the **MERN Stack**
+- 🌱 Currently exploring DSA 
+- 🚀 Always building, always learning
 
 ---
 
-## 🌱 Philosophy
+### 🛠️ Tech Stack
 
-> Learn fundamentals.
->
-> Build projects.
->
-> Stay consistent.
->
-> Improve every day.
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 🎖️ 2026 Vision
+### 🔨 Projects
 
-* Become a strong software engineer
-* Build impactful engineering projects
-* Gain practical experience through internships
-* Explore AI, Computer Vision, and Intelligent Systems
-* Contribute to meaningful open-source projects
+**[AuraTrack – Smart Attendance System](https://github.com/mihikaraut)** `2026`
+> Full-stack attendance tracking platform with a Flutter mobile app, web dashboard, MongoDB backend, and data analytics for attendance insights.
+
+**[Cryptoplace](https://github.com/mihikaraut)** `2025`
+> Real-time cryptocurrency tracker using live REST APIs, interactive charts, search functionality, and a fully responsive UI.
 
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Stats
 
-📧 Email: mihikaraut29@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/mihika-raut
-
-🌐 Portfolio: [https://mihikarauts.netlify.app/]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rmihika&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rmihika&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
 <p align="center">
-
-### "The best way to learn engineering is to build."
-
-⭐ Thanks for visiting my profile!
-
+  <i>Let's connect and build something great together!</i>
 </p>
