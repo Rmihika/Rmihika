@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mihika Raut 👋</h1>
+<h1 align="center">Hi, I'm Mihika 👋</h1>
 
 <p align="center">
   B.Tech ECE Student · Full Stack Developer · Building cool things with the web
