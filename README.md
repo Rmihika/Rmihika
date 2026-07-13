@@ -29,13 +29,7 @@
 
 ### 🔨 Projects
 
-**[AuraTrack – Smart Attendance System](https://github.com/mihikaraut)** `2026`
-> Full-stack attendance tracking platform with a Flutter mobile app, web dashboard, MongoDB backend, and data analytics for attendance insights.
 
-**[Cryptoplace](https://github.com/mihikaraut)** `2025`
-> Real-time cryptocurrency tracker using live REST APIs, interactive charts, search functionality, and a fully responsive UI.
-
----
 
 ### 📊 GitHub Stats
 
