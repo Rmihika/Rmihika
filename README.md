@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Mihikaa  Raut 👋</h1>
 
 <p align="center">
-  B.Tech ECE Student ·  Building cool things with the web
+  B.Tech CSE Student ·  Building cool things with the web
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd Year B.Tech ECE student
+- 🎓 2nd Year B.Tech CSE student
 - 💻 Full Stack Developer focused on the **MERN Stack**
 - 🌱 Currently exploring DSA 
 - 🚀 Always building, always learning
